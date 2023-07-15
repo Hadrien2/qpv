@@ -2,7 +2,7 @@
 "type":"FeatureCollection",
 "features":
 [
-{"type":"Feature","properties":{"Adresse":"11 rue Cave 75018 Paris France","Fait":"« Des enfants SDF dans notre école ? » : à Paris, cette décision de l’État qui fait polémique"},
+{"type":"Feature","properties":{"Adresse":"11 rue Cave 75018 Paris France","Fait": "Titre: « Des enfants SDF dans notre école ? »\nParagraphe: À Paris, cette décision de l’État qui fait polémique\nURL: https://example.com/news1"},
 "geometry":{"type":"Point","coordinates":[2.3552877,48.8867231]}}
 ,
 {"type":"Feature","properties":{"Adresse":"Rue Forceval 75019 Paris France","Fait":"Crack à Paris : après le démantèlement du camp, les riverains du square Forceval veulent «du beau»"},
