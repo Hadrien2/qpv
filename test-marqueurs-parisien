@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "11 rue Cave 75018 Paris France",
+        "nom_du_fait_divers": "« Des enfants SDF dans notre école ? » : à Paris, cette décision de l’État qui fait polémique",
+        "URL": "https://www.leparisien.fr/paris-75/des-enfants-sdf-dans-notre-ecole-cette-decision-de-letat-qui-fait-polemique-a-paris-02-01-2023-EOTE7B5IGFGAVFLMKTKICVPNB4.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3552877, 48.8867231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Rue Forceval 75019 Paris France",
+        "nom_du_fait_divers": "Crack à Paris : après le démantèlement du camp, les riverains du square Forceval veulent «du beau»",
+        "URL": "https://www.leparisien.fr/paris-75/crack-a-paris-apres-le-demantelement-du-camp-les-riverains-du-square-forceval-veulent-du-beau-03-01-2023-SZLL5XWGGFCHPDAKM6Q3E4CQEY.php?ts=1687811121606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3902229, 48.8997516]
+      }
+    },
+  ]
+}
